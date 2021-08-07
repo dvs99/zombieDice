@@ -1,0 +1,12 @@
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\bin\Debug\sample.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\bin\Debug\sample.pdb
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\obj\x86\Debug\sample.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\obj\x86\Debug\sample.pdb
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\bin\Debug\sample.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\bin\Debug\sample.pdb
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\obj\x86\Debug\sample.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\obj\x86\Debug\sample.pdb
+C:\Users\Hans\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\bin\Debug\sample.exe
+C:\Users\Hans\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\bin\Debug\sample.pdb
+C:\Users\Hans\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\obj\x86\Debug\sample.exe
+C:\Users\Hans\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo_barebones\client\obj\x86\Debug\sample.pdb

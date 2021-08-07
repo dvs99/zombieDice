@@ -1,0 +1,17 @@
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\bin\Release\server.exe
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\bin\Release\server.pdb
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\bin\Release\shared.dll
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\bin\Release\shared.pdb
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\obj\x86\Release\server.csprojAssemblyReference.cache
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\obj\x86\Release\server.csproj.CopyComplete
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\obj\x86\Release\server.exe
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\server\obj\x86\Release\server.pdb
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\bin\Release\server.exe
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\bin\Release\server.pdb
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\bin\Release\shared.dll
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\bin\Release\shared.pdb
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\obj\x86\Release\server.csprojAssemblyReference.cache
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\obj\x86\Release\server.csproj.CoreCompileInputs.cache
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\obj\x86\Release\server.csproj.CopyComplete
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\obj\x86\Release\server.exe
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\server\obj\x86\Release\server.pdb

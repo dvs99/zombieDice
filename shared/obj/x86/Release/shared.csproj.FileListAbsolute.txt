@@ -1,0 +1,11 @@
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\shared\bin\Release\shared.dll
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\shared\bin\Release\shared.pdb
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\shared\obj\x86\Release\shared.csprojAssemblyReference.cache
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\shared\obj\x86\Release\shared.dll
+D:\data\Dropbox\HW\saxion\courses_cmgt\2_3_networking\_new_setup\_tcp_tests\105_gameplay\shared\obj\x86\Release\shared.pdb
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\bin\Release\shared.dll
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\bin\Release\shared.pdb
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\obj\x86\Release\shared.csprojAssemblyReference.cache
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\obj\x86\Release\shared.csproj.CoreCompileInputs.cache
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\obj\x86\Release\shared.dll
+D:\Escritorio\_TEMP\000_final_assignment\000_assignment_3\shared\obj\x86\Release\shared.pdb

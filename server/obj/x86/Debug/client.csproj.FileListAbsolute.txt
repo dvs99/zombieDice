@@ -1,0 +1,4 @@
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\bin\Debug\client.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\bin\Debug\client.pdb
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\obj\x86\Debug\client.exe
+D:\data\Dropbox\saxion\courses\kwartaal_4\1_4_networking\sheets\lecture_1_examples\001_udpclient_echo\client\obj\x86\Debug\client.pdb
